@@ -11,10 +11,12 @@ public class PlayerScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        /*
        hoger = "d";
        vanster = "a";
        upp = "w";
        ner = "s";
+        */
     }
 
     // Update is called once per frame

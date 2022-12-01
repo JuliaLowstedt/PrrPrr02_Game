@@ -7,12 +7,13 @@ public class StoraPlayerScript : PlayerScript
     // Start is called before the first frame update
     void Start()
     {
-        vanster = "left";
-        hoger = "right";
-        upp = "up";
-        ner = "down";
+        
+        vanster = "a";
+        hoger = "d";
+        upp = "w";
+        ner = "s";
     }
-
+    /*
     // Update is called once per frame
     void Update()
     {
@@ -20,5 +21,5 @@ public class StoraPlayerScript : PlayerScript
         hoger = "right";
         upp = "up";
         ner = "down";
-    }
+    }*/
 }
