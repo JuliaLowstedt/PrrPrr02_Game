@@ -11,6 +11,9 @@ public class LillaPlayerScript : PlayerScript
         hoger = "right";
         upp = "up";
         ner = "down";
+
+        speed = 0.03f;
+
     }
     /*
     // Update is called once per frame

@@ -155,5 +155,5 @@ MonoBehaviour:
   groundCheck: {fileID: 1656478012439693941, guid: dd2d9f1709b3b7c4ebab1c5df76f34a2, type: 3}
   groundlayer:
     serializedVersion: 2
-    m_Bits: 0
-  jumpForce: 5
+    m_Bits: 64
+  jumpForce: 0
